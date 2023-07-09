@@ -1,4 +1,4 @@
-# Emotion-Based-Music-Recommender
+# EmoSonic
 <a>Emotion based music</a>
 <a img src="emotion.jpg"/></a>
 
